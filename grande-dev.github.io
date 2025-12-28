@@ -30,7 +30,7 @@
         <h1><a href="https://grande-dev.github.io/">Davide Grande</a></h1>
         
         
-          <img src="/muso_1024.png" alt="Logo" />
+          <img src="images/profile.jpg" alt="Logo" />
         
 
         <p>Postdoctoral Research Fellow, University College London</p>
@@ -62,10 +62,7 @@ Finally, I focus on hardware and onboard software design of **Autonomous Underwa
 <p>A full list of publications is available <a href="https://profiles.ucl.ac.uk/77759-davide-grande/publications">here</a>.</p>
 
 <h2 id="teaching">Teaching</h2>
-
-<ul>
-  <li>https://profiles.ucl.ac.uk/77759-davide-grande/teaching</li>
-</ul>
+<p>My teaching contributions can be viewed href="https://profiles.ucl.ac.uk/77759-davide-grande/teaching">here</a>.<p>
 
 
       </section>
