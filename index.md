@@ -20,3 +20,7 @@ A full list of publications is available [here](https://profiles.ucl.ac.uk/77759
 
 My teaching contributions can be viewed [here](https://profiles.ucl.ac.uk/77759-davide-grande/teaching).
 
+
+## Open-source software development
+
+My open-source software development and contributions are summarised [here](https://github.com/grande-dev/grande-dev). 
