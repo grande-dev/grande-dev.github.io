@@ -1,8 +1,8 @@
 ## About Me
 
-I am a Postdoctoral Research Fellow(https://profiles.ucl.ac.uk/77759-davide-grande) at University College London, Mechanical Engineering.   
-My current role involves managing the Mechanical Engineering Fluid Tanks, providing teaching support to the Submarine Design Course, to the Minor in Ocean Engineering and to the MSc in Marine Engineering and to the MSc in Naval Architecture.  
-Previosuly I worked at INESC-TEC, Porto and Airbus Defence and Space, UK on topics of Guidance, Navigation and Control Engineer for autonomous vehicles. I studied Automation and Control Engineering at Politecnico di Milano (BSc and MSc), followed by a PhD in Mechanical Engineering at University College London.  
+I am a [Postdoctoral Research Fellow](https://profiles.ucl.ac.uk/77759-davide-grande) at University College London, Mechanical Engineering, and an [Encode: AI for Science Fellow](https://encode.pillar.vc/fellows/davide-grande) at the Advanced Research and Invention Agency.  
+My current role at UCL involves managing the Mechanical Engineering Fluid Tanks, providing teaching support to the Submarine Design Course, to the Minor in Ocean Engineering and to the MSc in Marine Engineering and to the MSc in Naval Architecture.  
+Previously I worked at INESC-TEC, Porto and Airbus Defence and Space, UK on topics of Guidance, Navigation and Control Engineer for autonomous vehicles. I studied Automation and Control Engineering at Politecnico di Milano (BSc and MSc), followed by a PhD in Mechanical Engineering at University College London.  
 
 ## Research Interests
 
